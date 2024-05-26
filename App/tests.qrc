@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/TRAPSButton.qml</file>
+        <file>qml/DialogBox.qml</file>
+        <file>qml/MenuRow.qml</file>
+        <file>qml/images/alert.svg</file>
+        <file>qml/images/information.svg</file>
+        <file>qml/images/question.svg</file>
+        <file>Tests/View/DialogBox/DialogBoxTest.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
